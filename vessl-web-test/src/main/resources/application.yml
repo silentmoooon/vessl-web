@@ -1,0 +1,3 @@
+vessl:
+  server:
+    port: 8080
