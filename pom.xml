@@ -28,6 +28,5 @@
     <modules>
     <module>vessl-web-core</module>
     <module>vessl-web-starter</module>
-    <module>vessl-web-test</module>
     </modules>
 </project>

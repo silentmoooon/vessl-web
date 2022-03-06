@@ -1,7 +1,0 @@
-vessl:
-  server:
-    port: 8080
-
-name: 'xiecan1 select *from
-      aaaa where a=b
-      and b=c'
